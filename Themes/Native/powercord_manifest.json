@@ -1,0 +1,9 @@
+{
+    "name": "Native (Dev)",
+    "version": "1.0.0",
+    "author": "Nate's World#6340",
+    "description": "A native feeling theme with some added features",
+    "license": "MIT",
+    "theme": "theme.css",
+    "splashTheme": "splash.css"
+}
